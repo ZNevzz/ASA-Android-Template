@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">A  S  A</string>
+
+    <string name="but_members"> M E M B E R S</string>
+
+    <string name="but_services"> S E R V I C E S</string>
+
+    <string name="action_settings"> I N F O </string>
+
+    <string name="title_activity_members">MembersActivity</string>
+
+    <string name="desc">img</string>
+
+   <string name="altar_servers">Altar Servers</string>
+
+    <string name="core_team">Core Team</string>
+
+    <string name="appointments">Appointments</string>
+
+    <string name="attendance">Attendance</string>
+
+    <string name="title_activity_services">ServicesActivity</string>
+    <string name="title_activity_altar_servers">AltarServersActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
+</resources>
